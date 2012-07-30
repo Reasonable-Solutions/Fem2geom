@@ -1,0 +1,3 @@
+bygg med pyinstaller. 
+och --onefile (før att få en exe)
+samt --tk (før att få med tcl/tk)
